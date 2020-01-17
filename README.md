@@ -22,6 +22,7 @@ another project:
 
 https://www.geeky-gadgets.com/arduino-wind-speed-meter-anemometer-project-30032016/
 
+
 – Adafruit Anemometer (product ref: 1733) – £39 or $44
 
 https://www.amazon.co.uk/gp/product/B00PLVJDF6/ref=ox_sc_act_title_1?smid=A3VZWH9QVI2V2M&psc=1
@@ -41,3 +42,10 @@ https://www.amazon.co.uk/DOLITY-Screen-Expansion-Display-Arduino/dp/B07DL7FC6L/r
 – Arduino IDE software loaded on to a PC or Mac – Free
 
 https://www.arduino.cc/en/main/software
+
+
+
+
+third one:
+
+http://cactus.io/hookups/weather/anemometer/davis/hookup-arduino-to-davis-anemometer
